@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Itz ryan81exe or Itz ryan2.exe, you can call me Ryan
+- 👋 Hi, I’m Itz ryan81exe, Itz Ryan2.exe or Itz Ryanexe2, you can call me Ryan
 
 - Here!, this is where you could find me on online
   - Youtube:
