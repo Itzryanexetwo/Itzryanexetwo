@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Itz ryan81exe or Itz ryan2.exe, you can call me Ryan
 
 - Here!, this is where you could find me on online
-  - Youtube
+  - Youtube:
    https://www.youtube.com/@it_ryanexe2
-  - Mastodon
+  - Mastodon:
    https://mastodon.social/@itzryan
-  - X (Formally Twitter)
+  - X (Formally Twitter):
    https://twitter.com/Itz_ryanexe2
-  - Gitlab
+  - Gitlab:
    https://gitlab.com/Itz_ryan2
-  - AMO (addon.mozilla.org)
+  - AMO (addon.mozilla.org):
    Itz Ryan81exe
 
 <!---
