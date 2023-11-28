@@ -9,6 +9,8 @@
    https://twitter.com/Itz_ryanexe2
   - Gitlab
    https://gitlab.com/Itz_ryan2
+  - AMO (addon.mozilla.org)
+   Itz Ryan81exe
 
 <!---
 Itzryanexetwo/Itzryanexetwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
